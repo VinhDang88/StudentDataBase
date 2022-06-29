@@ -1,0 +1,15 @@
+C:\Users\vinnn\source\repos\StudetDatabase\StudetDatabase\bin\Debug\net6.0\StudetDatabase.exe
+C:\Users\vinnn\source\repos\StudetDatabase\StudetDatabase\bin\Debug\net6.0\StudetDatabase.deps.json
+C:\Users\vinnn\source\repos\StudetDatabase\StudetDatabase\bin\Debug\net6.0\StudetDatabase.runtimeconfig.json
+C:\Users\vinnn\source\repos\StudetDatabase\StudetDatabase\bin\Debug\net6.0\StudetDatabase.dll
+C:\Users\vinnn\source\repos\StudetDatabase\StudetDatabase\bin\Debug\net6.0\StudetDatabase.pdb
+C:\Users\vinnn\source\repos\StudetDatabase\StudetDatabase\obj\Debug\net6.0\StudetDatabase.csproj.AssemblyReference.cache
+C:\Users\vinnn\source\repos\StudetDatabase\StudetDatabase\obj\Debug\net6.0\StudetDatabase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinnn\source\repos\StudetDatabase\StudetDatabase\obj\Debug\net6.0\StudetDatabase.AssemblyInfoInputs.cache
+C:\Users\vinnn\source\repos\StudetDatabase\StudetDatabase\obj\Debug\net6.0\StudetDatabase.AssemblyInfo.cs
+C:\Users\vinnn\source\repos\StudetDatabase\StudetDatabase\obj\Debug\net6.0\StudetDatabase.csproj.CoreCompileInputs.cache
+C:\Users\vinnn\source\repos\StudetDatabase\StudetDatabase\obj\Debug\net6.0\StudetDatabase.dll
+C:\Users\vinnn\source\repos\StudetDatabase\StudetDatabase\obj\Debug\net6.0\refint\StudetDatabase.dll
+C:\Users\vinnn\source\repos\StudetDatabase\StudetDatabase\obj\Debug\net6.0\StudetDatabase.pdb
+C:\Users\vinnn\source\repos\StudetDatabase\StudetDatabase\obj\Debug\net6.0\StudetDatabase.genruntimeconfig.cache
+C:\Users\vinnn\source\repos\StudetDatabase\StudetDatabase\obj\Debug\net6.0\ref\StudetDatabase.dll
